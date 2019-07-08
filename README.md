@@ -1,5 +1,11 @@
 # PSENet_Image_to_text_flask_implementaion
 Upload the images in 'jpeg' ,'jpg' ,'png' format containing text and obtain all the text in the image present.
+
+## Project Description
+To detect text ,Progressive scale expansion(PSENet) model has beed used, which has been trained over 1000 images of forms , works best on images with white background and black text font. To detect images of various aspects ,one needs to trained the PSENet model and copy the obtained checkpoint in the checkpoints folder above.
+
+A flask API has been provided to evaluate the results obtained from the trained checkpoints
+
 ## Required Libraries
 
 - tensorflow
@@ -58,3 +64,10 @@ Upload the images in 'jpeg' ,'jpg' ,'png' format containing text and obtain all 
      - Clone the repository , and run the 'app_test.py' file
    - Host the files
      - Clone the repository and commit or upload all the files to the server,with your respective domain name acting as the website. 
+
+## Further improvements
+The better the checkpoint, better will be the results on the uploaded images
+
+If we want to detect objects or recognise face , we need to only change the checkpoints in the checkpoint folder and the evaluation procedure of the respective model used.
+
+To accomodate various forms of images , we can process every image with OpenCV such that all the text is converted to black and remaining background to white and then the model can be applied.
