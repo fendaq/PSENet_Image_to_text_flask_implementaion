@@ -60,6 +60,9 @@ A flask API has been provided to evaluate the results obtained from the trained 
     - Needed to run eval.main()
 
 ## How to use 
+
+Download the checkpoint from this [link](https://drive.google.com/open?id=1jJATwSwc9L6lbRAJRR7Mr0mGeTXJE_kH),
+then copy this checkpoint in the checkpoint folder after cloning the whole repository.
    - Local server-
      - Clone the repository , and run the 'app_test.py' file
    - Host the files
