@@ -61,8 +61,8 @@ A flask API has been provided to evaluate the results obtained from the trained 
 
 ## How to use 
 
-Download the checkpoint from this [link](https://drive.google.com/open?id=1I8jo4sRZg3DWBy1jcgaekDo5piUgNSdk),
-then copy this checkpoint in the checkpoint folder after cloning the whole repository.
+Download the checkpoint and other content from this [link](https://drive.google.com/open?id=1I8jo4sRZg3DWBy1jcgaekDo5piUgNSdk),
+then save all of it in a folder named checkpoint with the other folders after cloning the whole repository.
    - Local server-
      - Clone the repository , and run the 'app_test.py' file
    - Host the files
