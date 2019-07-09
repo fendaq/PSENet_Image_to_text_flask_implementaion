@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/cerelabs/workarea/Hardik/text_detection_pse/tensorflow_PSENet-master/checkpoints/model.ckpt-473703"
+all_model_checkpoint_paths: "/home/cerelabs/workarea/Hardik/text_detection_pse/tensorflow_PSENet-master/checkpoints/model.ckpt-469663"
+all_model_checkpoint_paths: "/home/cerelabs/workarea/Hardik/text_detection_pse/tensorflow_PSENet-master/checkpoints/model.ckpt-470673"
+all_model_checkpoint_paths: "/home/cerelabs/workarea/Hardik/text_detection_pse/tensorflow_PSENet-master/checkpoints/model.ckpt-471683"
+all_model_checkpoint_paths: "/home/cerelabs/workarea/Hardik/text_detection_pse/tensorflow_PSENet-master/checkpoints/model.ckpt-472693"
+all_model_checkpoint_paths: "/home/cerelabs/workarea/Hardik/text_detection_pse/tensorflow_PSENet-master/checkpoints/model.ckpt-473703"
